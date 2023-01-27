@@ -1,3 +1,7 @@
+Status of this repo
+-------------------
+This is a submodule and earlier code used in the released code avaialble at https://github.com/sccn/childmind
+
 Data loading and preparation matlab files
 -----
 copy_resting_state.m                - Copy resting state data to different folder  
