@@ -5,11 +5,6 @@ This is a submodule and earlier code used in the released code avaialble at http
 Data loading and preparation matlab files
 -----
 copy_resting_state.m                - Copy resting state data to different folder  
-copy_the_present.m                  - Copy the present eeg data to different folder  
-copy_video.m                        - Copy all video files  
-check_tp_files_event.m              - Check event latency difference for the present movie  
-check_video_files.m                 - Check different types of movie files  
-cm_checkevents.m                    - Check events for other tasks  
 getjobid.m                          - Get SDSC job ID (does not work well or at all)  
 finputcheck.m                       - EEGLAB support function  
 loadtxt.m                           - EEGLAB support function  
